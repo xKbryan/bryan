@@ -1,4 +1,4 @@
-# bryanbet
+# bryan
 
 ## Project setup
 ```
